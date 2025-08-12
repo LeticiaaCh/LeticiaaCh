@@ -18,14 +18,11 @@
 
 ###
 
-<p align="left">Me chama nas redes ou no e-mail, vou adorar conversar!</p>
+<p align="left">Me chama no e-mail, vou adorar conversar!</p>
 
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/leticia-checchinato-53946b309" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
   <a href="mailto:leticiachecchinato06@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
