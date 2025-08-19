@@ -1,4 +1,4 @@
-<p align="left">Olá mundo!<br><br>Seja bem-vindo ao meu GitHub!<br><br>Estudante de Análise e Desenvolvimento de Sistemas | Apaixonada por tecnologia e gestão 💻<br><br>Desde criança, sempre gostei de tecnologia, baixava mods de jogos e jogos, só para explorar o software do meu computador. Crescendo, comecei a ter interesse de aprender cada vez mais. Uma das minhas certezas é que quero misturar tecnologia com gestão, vai que mais pra frente faço uma pós, rsrs<br><br>🚀 Gosto de desenvolver projetos práticos, e no momento estou aprendendo sobre análise de dados.</p>
+<p align="left"><br><br><br>Estudante de Análise e Desenvolvimento de Sistemas | Apaixonada por tecnologia e gestão 💻<br><br>Desde criança, sempre gostei de tecnologia, baixava mods de jogos e jogos, só para explorar o software do meu computador. Crescendo, comecei a ter interesse de aprender cada vez mais.<br><br>🚀 Gosto de desenvolver projetos práticos, e no momento estou aprendendo sobre análise de dados.</p>
 
 ###
 
